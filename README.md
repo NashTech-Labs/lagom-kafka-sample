@@ -13,9 +13,6 @@ This is a sample project that consumes kafka messages using lagom and forward th
 <p>Step 1. Clone the repo from here.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:code -->
-<pre class="wp-block-code"><code></code></pre>
-<!-- /wp:code -->
 
 <!-- wp:paragraph -->
 <p>Step 2. Run sbt from root directory.</p>
